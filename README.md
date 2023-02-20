@@ -19,8 +19,12 @@ Pagina web para ONG con panel para administrar contenido, responder emails, modi
 
 
 ## Tech Stack
-![Captura de pantalla 2023-02-19 - 20 29 28](https://user-images.githubusercontent.com/76258273/219983409-e80a3577-a663-4231-8824-bf136b49c851.png)
 
+### Servidor:
+![Captura de pantalla 2023-02-19 - 23 20 47](https://user-images.githubusercontent.com/76258273/220006983-6bdcb117-520f-4411-b16a-b33cb48474ca.png)
+
+### Cliente:
+![Captura de pantalla 2023-02-19 - 23 07 25](https://user-images.githubusercontent.com/76258273/220006991-5d8d4609-ce00-498d-aa7d-6e1ad2a44aa2.png)
 
 ## Demo
 
